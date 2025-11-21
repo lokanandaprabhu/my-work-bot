@@ -1,4 +1,4 @@
-# 🤖 My Work Bot - Developer Week Edition
+# 🤖 My Work Bot
 
 A Slack bot that helps developers quickly see all their pending work across GitHub, Jira, and personal todos with a single command.
 
